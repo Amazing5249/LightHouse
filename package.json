@@ -1,0 +1,35 @@
+{
+  "name": "astralmod",
+  "version": "1.0.0",
+  "description": "Discord Moderation Bot for AstralPhaser Central, ShiftOS, theShell and other servers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicr123/AstralMod.git"
+  },
+  "author": "vicr123",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vicr123/AstralMod/issues"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "canvas": "^1.6.10",
+    "discord.js": "^11.4.2",
+    "erlpack": "github:discordapp/erlpack",
+    "hawk": "^7.0.10",
+    "i18next": "^12.1.0",
+    "i18next-node-fs-backend": "^2.1.0",
+    "libsodium-wrappers": "^0.7.3",
+    "localize": "^0.4.7",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "openweathermap-js": "^1.0.1",
+    "opusscript": "0.0.3",
+    "yandex-translate": "^2.1.2",
+    "yql": "^1.0.2"
+  }
+}

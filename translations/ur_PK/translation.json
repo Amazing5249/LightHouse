@@ -1,0 +1,12 @@
+{
+    "SETLOC_LANGUAGE": "ٹھیک ہے، تمہاری زبان اب اردو (پاکستان) ہے.",
+    "UINFO_NICKNAME": "**عرفی نام:** {{nickname}}",
+    "UINFO_NAMES": "نام",
+    "UINFO_USER_INFORMATION": "صارف کی معلومات",
+    "UINFO_USER_ID": "صارف کا نمبر: {{id}}",
+    "SPECIAL_STIME": "{{time, stime}}",
+    "UINFO_TIMESTAMPS": "تاریخ",
+    "WEATHER_TODAY": "آج",
+    "THIS_LOCALE": "Urdu (Pakistan)",
+    "TIME_RESPONSE": "{{clockEmote}} **{{request}}** ({{offset}}) {{time, dddd[,] MMMM D}}, at {{time, stime}}"
+}
