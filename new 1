@@ -1,0 +1,6 @@
+```js
+module.exports = {
+    keys: {
+        token: "NTE1OTgxMDM0MTkwMjc0NjEw.XlPsjQ.Zn0XqIG_yYfEDv4Jl9X1_DEdCBc", // This is where the token for your bot account goes
+        settingsKey: "", // This is the encryption key for the settings file. What you input here really doesn't matter - it should be about 32 characters (if you go any longer it will be truncated). Don't change it or else you won't be able to use your settings file again. 
+        yandexKey: ""
